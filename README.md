@@ -19,6 +19,9 @@ que os resultados possam ser replicados por pares e demais pesquisadores.
 Dentro do web app, existem dois botões que podem ser usados para baixar ambas
 tabelas para um computador local em formato CSV.
 
+O projeto se baseou em um projeto similar da autora
+[aurora-mareviv](https://github.com/aurora-mareviv).
+
 ## Licença
 
 O repositório está licenciado pela GPL-3. Leia a licença completa no arquivo
@@ -45,5 +48,7 @@ results can be replicated by peers and other researchers.
 Within the web app, there are two buttons that can be used to download both
 tables to a local computer in CSV format.
 
+The project was based on a similar project by the author
+[aurora-mareviv](https://github.com/aurora-mareviv).
 The repository is licensed under GPL-3. Read the full license in the file
 `LICENSE`.
