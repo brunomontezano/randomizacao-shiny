@@ -1,5 +1,7 @@
 # Ferramenta para randomização em ensaios clínicos <a href='https://github.com/brunomontezano/randomizacao-shiny/'><img src='assets/clinical_trial.webp' align="right" height="139" /></a>
 
+[![DOI](https://zenodo.org/badge/782120300.svg)](https://zenodo.org/doi/10.5281/zenodo.10970915)
+
 Trata-se de um gerador de tabela de randomização para ensaios clínicos
 desenvolvido em R e Shiny. O projeto está publicado no
 [shinyapps.io](https://brunomontezano.shinyapps.io/randomizacao-shiny/).
