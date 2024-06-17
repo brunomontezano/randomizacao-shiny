@@ -6,7 +6,10 @@ linebreaks <- function(n) {
 
 fluidPage(
   theme = shinythemes::shinytheme("sandstone"),
-  headerPanel("Randomização simples para ensaios clínicos"),
+  titlePanel(
+    "Randomização simples para ensaios clínicos",
+    "Randomização para RCTs"
+  ),
   sidebarPanel(
     textInput(
               "titulo",

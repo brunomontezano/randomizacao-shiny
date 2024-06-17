@@ -1,4 +1,4 @@
-# Ferramenta para randomização em ensaios clínicos <a href='https://github.com/brunomontezano/randomizacao-shiny/'><img src='assets/clinical_trial.webp' align="right" height="139" /></a>
+# Ferramenta para randomização em ensaios clínicos <a href='https://github.com/brunomontezano/randomizacao-shiny/'><img src='assets/clinical_trial.webp' align="right" height="139" alt="Doctor and patient" /></a>
 
 [![DOI](https://zenodo.org/badge/782120300.svg)](https://zenodo.org/doi/10.5281/zenodo.10970915)
 
